@@ -1,0 +1,17 @@
+[
+    {
+      "nome": "João",
+      "sobrenome": "Silva",
+      "email": "joao.silva@example.com",
+      "senha": "$2a$10$7Rt9D9pVys.G6Tk9f7EMsewdOACt/Ifw9rtOzXzXj4EtA4YyUE9LC", 
+      "dataDeNascimento": "1990-01-15"
+    },
+    {
+      "nome": "Maria",
+      "sobrenome": "Oliveira",
+      "email": "maria.oliveira@example.com",
+      "senha": "$2a$10$KtvD2AVylmBLZ6hRpzmnUe1kqz0Z0uTbo5qfrKjWthuhD8eB6QGTC", 
+      "dataDeNascimento": "1988-12-05"
+    }
+  ]
+  
